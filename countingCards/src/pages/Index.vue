@@ -59,31 +59,6 @@ export default {
     }
   }
 }
-  // methods: {
-  //   addCard (card) {
-  //     switch (card) {
-  //       case 2:
-  //       case 3:
-  //       case 4:
-  //       case 5:
-  //       case 6:
-  //         this.count++
-  //         break
-  //       case 7:
-  //       case 8:
-  //       case 9:
-  //         this.count('hold')
-  //         break
-  //       case 10:
-  //       case 'J':
-  //       case 'Q':
-  //       case 'K':
-  //       case 'A':
-  //         this.count--
-  //         break
-  //     }
-  //     this.decision = this.count > 0 ? 'Bet' : 'Hold'
-  //   }
-  // }
+
 }
 </script>
